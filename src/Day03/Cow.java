@@ -11,6 +11,7 @@ import java.util.Scanner;
  * @author lemon
  * @date 2022/1/3 21:33
  * @blog www.lemonws.top
+ * 有BUG待解决
  */
 public class Cow {
     static int n,m;
