@@ -24,9 +24,9 @@ public class Offer12 {
             int dy = y + dd[i][1];
             if(dx >=0 && dx < row && dy >=0 && dy < column && m[dx][dy] == next && !vis[dx][dy]){
                 if(dfs(dx, dy, m, word, now)) return true;
-                vis[dx][dy] = false;
             }
         }
+        vis[x][y] = false;
         return false;
     }
     public boolean exist(char[][] board, String word) {
@@ -35,8 +35,6 @@ public class Offer12 {
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < column; j++) {
                 if(board[i][j] == word.charAt(0)) {
-                    for(boolean[] it : vis)
-                        for(boolean each : it) each = false;
                     if(dfs(i, j, board, word, ""))return true;
                 }
             }
