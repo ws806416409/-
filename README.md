@@ -11,3 +11,5 @@
 [2014.岛](https://www.acwing.com/problem/content/2016/) (枚举, 离散化)
 ### Day06
 [1987.粉刷栅栏](https://www.acwing.com/problem/content/1989/)  (差分, 离散化)
+### Day07
+[剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) (动态规划)
