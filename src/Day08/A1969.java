@@ -15,17 +15,18 @@ public class A1969 {
     public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
-        Arrays.fill(pre, Integer.MIN_VALUE);
+        Arrays.fill(pre, -50010);
         int n = in.nextInt();
         int k = in.nextInt();
         int res = -1;
         for (int i = 0; i < n; i++)
         {
             int id = in.nextInt();
-            if(i - pre[id] <= k) res = Math.max(res, id);
+            if(i - pre[id] <= k){
+                res = Math.max(res, id);
+            }
             pre[id] = i;
         }
         System.out.println(res);
     }
-
 }
