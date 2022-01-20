@@ -5,8 +5,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        char[][] b = {{1,2,3},{3,4,5}};
-        System.out.println(b[0].length);
-        System.out.println(b.length);
+        System.out.println(Integer.MAX_VALUE);
     }
 }

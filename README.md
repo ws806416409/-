@@ -17,3 +17,5 @@
 [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) (DFS)
 ### Day08
 [1969. 品种邻近](https://www.acwing.com/problem/content/1971/) √
+### Day09
+[1913. 公平摄影](https://www.acwing.com/problem/content/description/1915/) (hash,前缀和)
