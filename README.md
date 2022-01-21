@@ -19,3 +19,5 @@
 [1969. 品种邻近](https://www.acwing.com/problem/content/1971/) √
 ### Day09
 [1913. 公平摄影](https://www.acwing.com/problem/content/description/1915/) (hash,前缀和)
+### Day10
+[1904. 奶牛慢跑](https://www.acwing.com/problem/content/1906/) (单调栈)
