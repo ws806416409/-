@@ -26,3 +26,4 @@
 [1855. 愤怒的奶牛](https://www.acwing.com/problem/content/1857/) (bfs)
 ### Day12  
 [剑指 Offer II 079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/) (dfs)
+[LeetCode141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) √
