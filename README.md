@@ -29,3 +29,7 @@
 [LeetCode141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) √
 ### Day13
 [1843. 圆形牛棚](https://www.acwing.com/problem/content/description/1845/) √
+### Day14
+[1826. 农田缩减](https://www.acwing.com/problem/content/1828/) (枚举)
+[1801. 蹄子剪刀布](https://www.acwing.com/problem/content/1803/) (枚举)
+[1813. 方块游戏](https://www.acwing.com/problem/content/1815/) √
