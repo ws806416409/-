@@ -34,4 +34,4 @@
 [1801. 蹄子剪刀布](https://www.acwing.com/problem/content/1803/) (枚举)
 [1813. 方块游戏](https://www.acwing.com/problem/content/1815/) √
 ### Day15
-[2. 01背包问题](https://www.acwing.com/problem/content/description/2/) (动态规划)
+[01背包问题](https://www.acwing.com/problem/content/description/2/) (动态规划)
