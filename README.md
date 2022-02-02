@@ -35,3 +35,5 @@
 [1813. 方块游戏](https://www.acwing.com/problem/content/1815/) √
 ### Day15
 [01背包问题](https://www.acwing.com/problem/content/description/2/) (动态规划)
+### Day16
+[LC2104. 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) (枚举)
