@@ -1,13 +1,11 @@
 package Day16;
 
-import java.util.Arrays;
-
 /**
  * @author lemon
  * @date 2022/2/2 10:00
  * @blog www.lemonws.top
  */
-public class A2104 {
+public class LC2104 {
     public long subArrayRanges(int[] nums) {
         int len = nums.length;
         long res = 0;
