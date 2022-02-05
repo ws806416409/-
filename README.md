@@ -40,3 +40,5 @@
 [LC2099. 找到和最大的长度为 K 的子序列](https://leetcode-cn.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) (排序)
 ### Day17
 [LC234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) (双指针)
+### Day18
+[剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) (单链表)
