@@ -1,3 +1,5 @@
+import java.util.Locale;
+
 /**
  * @author lemon
  * @date 2022/1/17 20:52
@@ -5,12 +7,8 @@
  */
 public class Test{
 
-    private void test() {
-        System.out.println(1 + 1 + "wow!");
-    }
-
-    static public void main(String[] a) {
-        new Test().test();
+    public static void main(String[] args) {
+        //
     }
 
 }
