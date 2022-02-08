@@ -43,4 +43,6 @@
 ### Day18
 [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) (单链表)
 ### Day19
-[LC2109. 向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string/) (字符串)
+[LC2109. 向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string/) (字符串)  
+### Day20  
+[1715. 桶列表 ](https://www.acwing.com/problem/content/description/1717/) (差分)  
