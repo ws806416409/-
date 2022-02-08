@@ -8,7 +8,11 @@ import java.util.Locale;
 public class Test{
 
     public static void main(String[] args) {
-        //
+        String text1 = "abc";
+        text1 = '.' + text1;
+        System.out.println(text1.length());
+        System.out.println(text1);
+
     }
 
 }
