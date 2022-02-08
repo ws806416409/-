@@ -46,3 +46,4 @@
 [LC2109. 向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string/) (字符串)  
 ### Day20  
 [1715. 桶列表 ](https://www.acwing.com/problem/content/description/1717/) (差分)  
+[LC300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) (动态规划)
