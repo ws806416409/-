@@ -49,4 +49,6 @@
 [LC300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) (动态规划)  
 [剑指 Offer II 095. 最长公共子序列](https://leetcode-cn.com/problems/qJnOS7/) (动态规划)
 ### Day21
-[104. 货仓选址](https://www.acwing.com/problem/content/106/) (贪心,绝对值不等式)
+[104. 货仓选址](https://www.acwing.com/problem/content/106/) (贪心,绝对值不等式)  
+### Day22
+[1471. 牛奶工厂](https://www.acwing.com/problem/content/1473/) (Floyd, 传递闭包)
