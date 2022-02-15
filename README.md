@@ -51,4 +51,6 @@
 ### Day21
 [104. 货仓选址](https://www.acwing.com/problem/content/106/) (贪心,绝对值不等式)  
 ### Day22
-[1471. 牛奶工厂](https://www.acwing.com/problem/content/1473/) (Floyd, 传递闭包)
+[1471. 牛奶工厂](https://www.acwing.com/problem/content/1473/) (Floyd, 传递闭包)  
+### Day23
+[1672. 疯狂的科学家](https://www.acwing.com/problem/content/description/1674/)  
