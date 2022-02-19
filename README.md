@@ -55,3 +55,5 @@
 ### Day23
 [1672. 疯狂的科学家](https://www.acwing.com/problem/content/description/1674/) (贪心)  
 [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+### Day24
+[3347. 菊花链](https://www.acwing.com/problem/content/3350/)
