@@ -58,4 +58,5 @@
 ### Day24
 [3347. 菊花链](https://www.acwing.com/problem/content/3350/)
 ### Day25
-[LC33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) (二分查找)
+[LC33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) (二分查找)  
+[LC55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) (DFS or 贪心)
