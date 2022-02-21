@@ -57,3 +57,5 @@
 [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 ### Day24
 [3347. 菊花链](https://www.acwing.com/problem/content/3350/)
+### Day25
+[LC33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) (二分查找)
